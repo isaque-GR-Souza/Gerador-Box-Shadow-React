@@ -1,0 +1,37 @@
+.App{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+.controles{
+    width: 40vw;
+}
+
+.box{
+    text-align: center;
+    padding: 20vh;
+    width: 40vw;
+    height: 50vh;
+    background-color: rgb(119, 88, 148);
+    color: #ededed;
+}
+
+label{
+    font-size: 15px;
+    padding-right: 30px;
+    color: black;
+    font-weight: 500;
+}
+.caixa{
+    width: 40vw;
+    border: 2px solid black;
+    padding: 6vh;
+    margin-right: 8vw;
+    border-radius: 20px;
+}
+
+.switch{
+    margin-top: 25px;
+}
